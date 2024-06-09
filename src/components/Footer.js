@@ -7,7 +7,7 @@ export default function Footer()
     return(
     <footer className='footer'>
       <p className='footer-text'>
-       &copy; {currentYear} Webstack Movie, All Rights Reserved | Developed by Calvin the Patriot.
+       &copy; {currentYear} WebstackMovie, All Rights Reserved | Developed by Calvin the Patriot.
       </p>
     </footer>
     );
