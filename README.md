@@ -17,7 +17,7 @@ To get started with Moviedux, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/webstack-Project2.git
+   git clone https://github.com/calvinpatriot/Webstack-Project2.git
    cd webstackmovie
    ```
 
