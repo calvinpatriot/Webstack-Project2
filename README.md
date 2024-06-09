@@ -119,6 +119,6 @@ Contributions are welcome! Please fork the repository and create a pull request 
 
 ## License
 
-This is an ALX project by Calvin the Patriot sorely for the purpose of the final presentation.
+This ALX project by Calvin the Patriot & Prosper Auayigah Mawuli is sorely for the final presentation.
 
 ---
